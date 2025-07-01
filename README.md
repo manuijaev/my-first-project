@@ -1,1 +1,1 @@
- #sample text
+ The project made is just for learning purposes
